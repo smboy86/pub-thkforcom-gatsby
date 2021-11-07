@@ -20,7 +20,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
           rel="noopener noreferrer"
           className="btn"
         >
-          Explore
+          watch
         </a>
       </div>
     </div>
