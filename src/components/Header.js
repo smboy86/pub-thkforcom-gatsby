@@ -41,10 +41,9 @@ const Header = () => {
           </Fade>
           <Fade bottom>
             <a
-              href={`mailto:${
-                data.contactEmail ? data.contactEmail : "hello@chetanverma.com"
-              }`}
+              href={`https://www.youtube.com/channel/UCUbNhCJCQH-94fKhqKyTN-g`}
               className="primary-btn"
+              target={"_blank"}
             >
               CONNECT WITH ME
             </a>
